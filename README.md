@@ -11,5 +11,6 @@ The average fare per driver was significantly lower in urban cities; $16.57 vs S
 <img width="1089" alt="Pyber_Data" src="https://user-images.githubusercontent.com/94723290/147477510-9458d19c-8149-447d-97bd-7b155282fb55.png">
 
 From our line graph and the Dataframe snippet its easy to see that the Urban city type had the most rides per drivers in 2019; them being at the top in bold yellow.  There were a few spikes in each at or near the month of march. One could hypothisize that warmer weather brought more people out of their dwellings. 
-#Summary
+
+## Summary
 Based on the information retrieved from the data, There should be more drivers in the Rural cities. There were only 78 drivers to the 125 rides given. Making up a little over half of the requested rides (62%). The same goes for the Suburban cities. There arent enough drivers to give all of the requested rides, and its alot more expensive than in other cities. Meaning the riders may go with a competitor. If drivers arent available, maybe we can offer a little discount or promotion to the rural cities. It would give them more incentive to ride if they could save a few dollars. 
